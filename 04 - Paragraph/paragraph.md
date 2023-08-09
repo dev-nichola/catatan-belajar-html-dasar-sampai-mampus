@@ -1,7 +1,7 @@
 # Paragraph
 
 Saat membuat tulisan, selain Heading kita juga bisa membuat paragraf
-di HTML, kita bisa menggunakan tag p untuk membuat paragraf
+di HTML, kita bisa menggunakan tag p untuk membuat paragraf.
 Paragraf itu selalu mulai dengan baris baru
 
 ```html 
