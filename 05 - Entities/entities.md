@@ -19,7 +19,7 @@ Jadi itu lah Reserved Characters atau karakter yang sudah di pesan dalam html
 
 ## Entities
 Karakter yang sudah dipesan itu namanya Entity
-ada banyak sekali HTML Entity, dan di rekomendasikan menggunakan simbol Entity nya, ketika kita ingin menggunakan karakter tersebut, Tapi sebenarnya tidak wajib, kita bisa menggunakan karakter asli, namun lebih aman jika menggunakan simbol entity nya.
+ada banyak sekali HTML Entity, dan di rekomendasikan menggunakan simbol Entity nya, ketika kita ingin menggunakan karakter tersebut tetapi sebenarnya tidak wajib, kita bisa menggunakan karakter aslinya saja, namun lebih aman jika menggunakan simbol entity nya.
 
 ### Contoh Entity
 
