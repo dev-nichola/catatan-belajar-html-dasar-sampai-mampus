@@ -18,16 +18,17 @@ oleh karena itu, jika kita memaksakan menuliskan karakter tersebut di teks parag
 Jadi itu lah Reserved Characters atau karakter yang sudah di pesan dalam html 
 
 ## Entities
-Karakter yang sudah dipesan itu namanya, HTML Entity
-ada banyak sekali HTML Entity, dan di rekomendasikan menggukana simbol Entity nya, ketika kita ingin menggunakan karakter tersebut, Tapi sebenarnya tidak wajib, kita bisa menggunakan karakter asli, namun lebih aman jika menggunakan simbol entity nya.
+Karakter yang sudah dipesan itu namanya Entity
+ada banyak sekali HTML Entity, dan di rekomendasikan menggunakan simbol Entity nya, ketika kita ingin menggunakan karakter tersebut, Tapi sebenarnya tidak wajib, kita bisa menggunakan karakter asli, namun lebih aman jika menggunakan simbol entity nya.
 
 ### Contoh Entity
 
 | Entity        | Karakter      |
 | ------------- | ------------- |
-| &num;	            | #  |
-| &commat;	  | @  |
+| &num	            | #  |
+| &commat	  | @  |
 
+jangan lupa ya pada akhir entity selalu di akhiri dengan titik koma (;)
 Selengkapnya bisa di lihat disini (https://oinam.github.io/entities/)
 
 jadi kita bisa menggunakan karakter karakter yang sudah di pesan oleh html dengan menggunakan entity
