@@ -1,10 +1,10 @@
 # List
-
 Untuk membuat daftar tulisan biasanya kita membuat list, di html kita dapat membuatnya dengan TAG list
 
 ada dua tipe list di html yaitu undordered list dan ordered list
 
 untuk membuat isi list tersebut dihtml menggunakan TAG li
+
 ## Unordered List
 undordered list adalah list yang tidak ada penomoranya, untuk di html kita dapata membuatnya dengan tag ul
 
@@ -20,7 +20,7 @@ undordered list adalah list yang tidak ada penomoranya, untuk di html kita dapat
 ## Ordered List
 sementara untuk membuat list yang ada penomoranya kita menggunakan tag ol
 
-### Kode : Penggunaan ol
+## Kode : Penggunaan ol
 
 ```html
     <ol>
