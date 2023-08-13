@@ -20,7 +20,7 @@ undordered list adalah list yang tidak ada penomoranya, untuk di html kita dapat
 ## Ordered List
 sementara untuk membuat list yang ada penomoranya kita menggunakan tag ol
 
-## Kode : Penggunaan ol
+### Kode : Penggunaan ol
 
 ```html
     <ol>
