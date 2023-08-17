@@ -1,4 +1,5 @@
-#Comment / Atau Komentar adalah informasi tambahan di HTML, yang tidak akan di tampilkan di halaman Web
+# Komentar
+Comment / Atau Komentar adalah informasi tambahan di HTML, yang tidak akan di tampilkan di halaman Web
 komentar biasanya digunakan untuk menambahkan suatu informasi tambahan untuk pengembang WEB, jadi tujuanya buka di tampilkan di WEB melainkan untuk memudahkan programmer untuk membaca kode
 
 ## Pembuatan Komentar
