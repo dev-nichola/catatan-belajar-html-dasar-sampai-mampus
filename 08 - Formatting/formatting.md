@@ -2,6 +2,7 @@
 Dalam aplikasi pengolahan text seperti MS WORD, kita bisa mengubah format tulisan menjadi tebal maupun miring
 Begitu juga di html kita bisa menambahkan text yang ingin kita tampilkan menggunakan tag yang sesuai dengan format yang kita mau.
 
+```
 - <b>, <strong> untuk bold / tebal
 - <i>, <em> untuk italic / miring
 - <small> untuk text kecil
@@ -9,6 +10,7 @@ Begitu juga di html kita bisa menambahkan text yang ingin kita tampilkan menggun
 - <ins> untuk text dengan garis bawah
 - <sub> untuk subscript text
 - <sup> untuk superscript
+```
 
 ##Kode : Formatting HTML
 ```html
