@@ -1,0 +1,46 @@
+header {
+      background-color: gray;
+      padding: 30px;
+      text-align: center;
+      font-size: 35px;
+      color: whitesmoke;
+}
+
+article {
+      padding: 20px;
+      width: 100%;
+      background-color: #f1f1f1;
+}
+
+footer {
+      background-color: gray;
+      padding: 10px;
+      text-align: center;
+      color: white;
+}
+
+nav {
+      background-color: yellow;
+      padding: 20px;
+}
+
+nav ul {
+      list-style-type: none;
+      padding: 10px;
+      align-items: center;
+}
+
+nav li {
+      float: center;
+}
+
+nav li a {
+      display: block;
+      text-align: center;
+      padding: 16px;
+      text-decoration: none;
+}
+
+nav li a:hover {
+      background-color: orange;
+}

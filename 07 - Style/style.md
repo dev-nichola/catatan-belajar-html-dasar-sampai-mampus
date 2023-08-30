@@ -14,8 +14,8 @@ Style attribute berisikan key:value CSS, jika lebih dari satu maka menggunakan ;
 ```
 
 ## Contoh CSS
-background-color : untuk mengubah warna latar belakang
-color : untuk mengubah warna font
-font-family : untuk mengubah jenis 
-font-size : untuk mengubah ukuran text
-text-align : untuk mengubah rata tulisan
+ - background-color : untuk mengubah warna latar belakang
+- color : untuk mengubah warna font
+- font-family : untuk mengubah jenis 
+- font-size : untuk mengubah ukuran text
+- text-align : untuk mengubah rata tulisan

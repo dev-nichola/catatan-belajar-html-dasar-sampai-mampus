@@ -1,17 +1,16 @@
 # Heading
 
-Saat kita membuat dokumen atau buku misalya biasanya terdapat heading,
-
-Heading itu ialah kata kata yang mendeskripiskan / mewakili isi dari tulisan yang kita buat
-seperti judul tapi untuk tiap bagianya seperti bab babnya
-di html kita bisa membuat heading dengan tag H
+Saat kita membuat dokumen atau buku misalya biasanya terdapat heading <br>
+Heading itu ialah kata kata yang mendeskripiskan / mewakili isi dari tulisan yang kita buat <br>
+seperti judul tapi untuk tiap bagianya seperti bab babnya <br>
+di html kita bisa membuat heading dengan tag H <br>
 
 ## Tingkatan Heading
-heading itu memiliki tingkatan, paling tinggi adalah tingkatan 1 dan paling rendah adalah tingkatan 6
-yang membedakan adalah karaktenya yang semakin kecil
+heading itu memiliki tingkatan, paling tinggi adalah tingkatan 1 dan paling rendah adalah tingkatan 6 <br>
+yang membedakan adalah karaktenya yang semakin kecil <br>
 Di HTML, kita bisa menggunakan tag h1 h2 h3 untuk membuat heading tersebut.
 
-Contoh : 
+### Kode : Heading
 
 ```html
     <h1>Heading 1</h1>

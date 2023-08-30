@@ -1,11 +1,11 @@
 #Image
-Image / Gambar bisa digunakan untuk memperindah tampilan website yang kita buat
-Html mendukung untuk menampilkan gambar dengan tag img
+Image / Gambar bisa digunakan untuk memperindah tampilan website yang kita buat <br>
+Html mendukung untuk menampilkan gambar dengan tag img <br>
 Hampir semua format gambar di dukung oleh web browser, bisa ditampilkan di halaman web HTML
 
 ## Image Attribut
-tag img adalah void element jadi tidak memilik konten
-Terdapat beberapa atribut yang bisa kita gunakan dalam tag img
+tag img adalah void element jadi tidak memilik konten <br>
+Terdapat beberapa atribut yang bisa kita gunakan dalam tag img <br>
 
 Attribute src yang digunakan untuk menentukan lokasi gambar yang mau di tampilkan bisa menggunakan Absolute URL atau Relative URL
 

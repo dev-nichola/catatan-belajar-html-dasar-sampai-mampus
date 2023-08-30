@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Table | HTML</title>
+  </head>
+  <body>
+    <h1>Belajar Table</h1>
+    <table style="border: 1px solid black">
+      <thead>
+        <tr>
+          <th>Nama Depan</th>
+          <th>Nama Belakang</th>
+          <th>Nilai</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Nichola</td>
+          <td>Saputra</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Budi</td>
+          <td>Nugraha</td>
+          <td>80</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <td></td>
+        <td colspan="1" style="background-color: yellow">Total</td>
+        <td>160</td>
+      </tfoot>
+    </table>
+
+    <br />
+    <br />
+    <h1>Column Group</h1>
+    <table style="border: 1px solid black">
+      <colgroup>
+        <col span="2" style="background-color: yellow" />
+        <!-- Arti kode tersebut adalah hanya warna kuning pada kolom kesatu dan kedua -->
+        <col style="background-color: aqua" />
+        <!-- Artinya kolom setelah 2 tersebut berwarna aqua -->
+      </colgroup>
+      <thead>
+        <tr>
+          <th>Nama Depan</th>
+          <th>Nama Belakang</th>
+          <th>Nilai</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Nichola</td>
+          <td>Saputra</td>
+          <td>80</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <br />
+    <br />
+
+    <h1>Colspan</h1>
+    <table style="border: 1px solid black">
+      <thead>
+        <colgroup>
+          <col span="2" style="background-color: rgb(199, 199, 247)" />
+          <col style="background-color: yellow" />
+        </colgroup>
+        <tr>
+          <th colspan="2">Nama</th>
+          <th>Nilai</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Nichola</td>
+          <td>Saputra</td>
+          <td>80</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h1>RowSpan</h1>
+    <table style="border: 1px solid black;">
+      <thead>
+        <colgroup>
+          <col span="3" style="background-color: aqua;">
+        </colgroup>
+        <tr>
+          <th colspan="2">Nama</th>
+          <th>Jumlah Kalori</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td rowspan="2">Nama</td>
+          <td>Nichola</td>
+          <td>800kkl</td>
+        </tr>
+        <tr>
+          <td>Budi</td>
+          <td>500kkl</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

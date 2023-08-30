@@ -1,5 +1,5 @@
 # Computer Code
-Sebagai programmer kita kadang ksering membuat web artikel tentang kode program.
+Sebagai programmer kita kadang kadang sering membuat web artikel tentang kode program.
 pada kasus ini ketika kita membuat kode program di HTML menggunakan paragraf maka akan menyulitkan, karena semua enter dan spasi akandi normalkan oleh html.
 terkadang kita ingin menampilkan kodenya apa adanya
 

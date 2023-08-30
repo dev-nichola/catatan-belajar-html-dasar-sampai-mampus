@@ -1,4 +1,4 @@
-#Picture
+# Picture
 Selain untuk menampilkan gambar menggunakan tag img di HTML, kita bisa menggunakan picture untuk menampilkan gambar
 Salah satu keuntungan menggunakan tag picture adalah, kita bisa menggunakan beberapa lokasi gambar, dan bisa diatur sesuai dengan ukuran layar.
 
