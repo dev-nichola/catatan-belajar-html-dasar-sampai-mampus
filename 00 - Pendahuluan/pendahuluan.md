@@ -36,7 +36,7 @@ Contohnya, saat kamu membuka www.petanikode.com.. maka file HTML yang akan dibuk
   <!DOCTYPE html <br>
   Ini adalah tag deklarasi untuk menyatakan tipe dokumen dan versinya. Pada contoh di atas, kita menyatakan dokumen ini bertipe HTML dan versinya adalah HTML 5<br>
 
-<b>Tag Pembukan </b>
+<b>Tag Pembukan</b>
 
 <html lang="en">
 Pada tag ini, kita memberikan atribut lang="en" untuk menyatakan kalau konten dokumen HTML ini akan menggunakan bahasa inggris <br> 
