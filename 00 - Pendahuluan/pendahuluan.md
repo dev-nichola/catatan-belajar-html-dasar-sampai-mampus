@@ -5,7 +5,7 @@ Jadi, HTML itu adalah sebuah bahasa yang menggunakan markup atau penanda untuk m
 Penanda atau markup ini, nanti akan kita sebut dengan Tag<br>
 HTML berperan untuk menentukan struktur konten dan tampilan dari sebuah web. <br>
 HTML itu seperti batu bata untuk membangun rumah. Batu bata ini dapat disusun, hingga menjadi fondasi dasar <br>
-[analogi](asset/html-css-js.png)
+![analogi](asset/html-css-js.png)
 Dalam membuat halaman web, HTML tidak sendirian. Ada bahasa lain lagi yang menjadi pelengkapnya, yakni CSS dan Javascript<br>
 CSS adalah bahasa khusus yang digunakan untuk memperindah tampilan web<br>
 Lalu Javascript bertugas untuk membuat halaman web menjadi hidup. Karena dengan Javascript, kita dapat menentukan fungsi-fungsi maupun efek yang akan diterapkan di website<br>
