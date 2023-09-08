@@ -5,7 +5,7 @@ Jadi, HTML itu adalah sebuah bahasa yang menggunakan markup atau penanda untuk m
 Penanda atau markup ini, nanti akan kita sebut dengan Tag<br>
 HTML berperan untuk menentukan struktur konten dan tampilan dari sebuah web. <br>
 HTML itu seperti batu bata untuk membangun rumah. Batu bata ini dapat disusun, hingga menjadi fondasi dasar <br>
-![analogi](asset/html-css-js.png)
+![analogi](asset/html-css-js.png) <br>
 Dalam membuat halaman web, HTML tidak sendirian. Ada bahasa lain lagi yang menjadi pelengkapnya, yakni CSS dan Javascript<br>
 CSS adalah bahasa khusus yang digunakan untuk memperindah tampilan web<br>
 Lalu Javascript bertugas untuk membuat halaman web menjadi hidup. Karena dengan Javascript, kita dapat menentukan fungsi-fungsi maupun efek yang akan diterapkan di website<br>
@@ -95,19 +95,19 @@ Setiap tag memiliki fungsi masing-masing. Ada yang digunakan untuk membuat judul
 
 ## Element HTML
 Elemen dalam HTML adalah sebuah komponen yang menyusun dokumen HTML. Elemen kadang juga disebut sebagai node, karena ia merupakan salah satu jenis node yang menyusun dokumen HTML dalam diagram HTML tree. <br>
-[Element](asset/pohon-html.gif)
+![Element](asset/pohon-html.gif)<br>
 Pada diagram tersebut, terdapat tiga macam node.. yakni: Node elemen, Node atribut, dan Node teks <br>
 Elemen dibentuk dari tag pembuka, isi tag, dan tag penutup. Kadang juga ditambahkan beberapa atribut <br>
 
 Contoh : 
-[Elementt](asset/element.png)
+![Elementt](asset/element.png) <br>
 Pada contoh di atas, terdapat satu elemen <p> dengan atribut align="center" dan memiliki isi berupa teks, yakni Hello World!. <br>
 Elemen tidak selalu berisi teks, kadan ia juga akan berisi elemen lain. Ini biasanya kita sebut dengan nested element atau elemen di dalam elemen. <br>
 Elemen HTML ada banyak jenisnya. Ada elemen khusus untuk teks, ada elemen untuk multimedia, script, tabel, metadata, dll. Nanti kita akan pelajari ini secara bertahap <br>
 
 ## Atribut HTML
 Atribut adalah kata kunci khusus yang berada di dalam tag pembuka. Atribut juga disebut sebagai modifier yang akan menentukan perliaku dari elemen. <br>
-[atribut](asset/atribut.png)
+![atribut](asset/atribut.png)<br>
 Atribut dapat ditambahkan pada elemen manapun. Ada juga elemen yang mewajibkan menggunakan atribut seperti elemen <a>, <img>, <video>, dll. <br>
 Jumlah atribut pada elemen bisa lebih dari satu. <br>
 
