@@ -99,7 +99,7 @@ Elemen dalam HTML adalah sebuah komponen yang menyusun dokumen HTML. Elemen kada
 Pada diagram tersebut, terdapat tiga macam node.. yakni: Node elemen, Node atribut, dan Node teks <br>
 Elemen dibentuk dari tag pembuka, isi tag, dan tag penutup. Kadang juga ditambahkan beberapa atribut <br>
 
-Contoh : 
+Contoh : <br>
 ![Elementt](asset/element.png) <br>
 Pada contoh di atas, terdapat satu elemen <p> dengan atribut align="center" dan memiliki isi berupa teks, yakni Hello World!. <br>
 Elemen tidak selalu berisi teks, kadan ia juga akan berisi elemen lain. Ini biasanya kita sebut dengan nested element atau elemen di dalam elemen. <br>
