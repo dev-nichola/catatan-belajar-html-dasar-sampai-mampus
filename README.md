@@ -1,7 +1,8 @@
 # Sebuah catatan html yang sering kamu gunakan
 
 
-### Kode : Git Clone
+### Kode : git clone
+
 ```
 git clone https://github.com/dev-nichola/HTML-Dasar.git
 ```
